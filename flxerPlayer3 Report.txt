@@ -1,0 +1,81 @@
+flxerPlayer3.swf Movie Report
+------------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1          24388          24388    Scene 1 (AS 2.0 Classes Export Frame)
+      2            616          25004    
+      3             34          25038    
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Scene 1                                0             0                   646
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+#000000                               20             0                     0
+#FFFFFF                               11             0                     0
+arrow                                 14             0                     0
+empty                                  0             0                     0
+arrow                                 14             0                     0
+#000000                               20             0                     0
+#FFFFFF                               11             0                     0
+toolbarLogoScritta                     0            16                     0
+toolbarLogo                            0             0                   131
+altPlayerFondo                        20             0                     0
+altPlayerFreccetta                    12             0                     0
+altPlayer                              0            47                   345
+video                                  0             0                     0
+indice_curs                            0             0                    24
+indice                                 0            53                     0
+fw_rw_puls                             0             0                     0
+fw_rw                                  0             0                    23
+volume                                 0             0                   161
+playpause_playPuls                     0             0                     0
+playpause_pausePuls                    0             0                     0
+playpause                              0             0                    24
+buttonTools                            0            13                    24
+controller                             0             0                     0
+piede                                  0             0                     0
+toolbar                                0            14                    23
+myEmbed                                0            72                     0
+
+Font Name                 Bytes        Characters    
+----------------------    ---------    --------------
+standard 07_53   8 pts         6335     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿˆ˜–—‘’‚“”„†‡•…‰‹›€™
+Courier New                      11    
+Arial Bold                        9    
+Verdana                           9    
+
+ActionScript Bytes    Location
+------------------    --------
+               157    volume:Livello 2:1
+                 1    volume:Livello 1:1:No instance name assigned(#000000)
+                 3    volume:Livello 3:1:path(#000000)
+                 0    volume:Livello 2:2
+                 0    playpause:Layer 3:1
+                 0    playpause:Layer 3:2
+               131    toolbarLogo:Layer 1:1
+               345    altPlayer:Livello 2:1
+                 0    altPlayerFondo:Livello 1:1
+                24    indice_curs:Livello 1:1
+                23    fw_rw:pulsInt:1
+                 0    playpause:Layer 3:1
+                24    playpause:Layer 4:1
+                23    toolbar:Layer 1:1
+                24    buttonTools:Layer 1:1
+               614    Scene 1:Layer 2:2
+                32    Scene 1:Layer 2:3
+             16295    ActionScript 2.0 Classes
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+texture16.gif                     12         256   Lossless
+
+Video                       Compressed
+------------------------    ----------
+vid_flv                               0
+
+
+
+
